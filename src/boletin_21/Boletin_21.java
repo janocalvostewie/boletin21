@@ -1,4 +1,4 @@
-package boletin_22;
+package boletin_21;
 
 import javax.swing.JOptionPane;
 import java.io.*;
@@ -7,7 +7,7 @@ import java.io.*;
  *
  * @author jano
  */
-public class Boletin_22 {
+public class Boletin_21 {
     public static void main(String[] args) {
         
         Metodologia meto1=new Metodologia();

@@ -1,4 +1,4 @@
-package boletin_22;
+package boletin_21;
 
 import java.io.File;
 import java.io.FileNotFoundException;
